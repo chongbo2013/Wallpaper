@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Config xmlns:android="http://schemas.android.com/apk/res/android">
     <WallpaperConfig>
+        <prefix>wallpaper</prefix>
         <page>5</page>
     </WallpaperConfig>
 </Config>

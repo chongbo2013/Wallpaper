@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Wallpapers xmlns:android="http://schemas.android.com/apk/res/android">
-    <Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/livewallpaper/20171010_haibian_chuan.jpg</Wallpaper>
-    <Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/livewallpaper/20171010_shuimo_hehua.jpg</Wallpaper>
-    <Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/livewallpaper/20171011_xingkong_yuye.jpg</Wallpaper>
-    <Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/livewallpaper/2017-10-11_17_51_43_x264.jpg</Wallpaper>
+    <Wallpaper md5="123456">https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/livewallpaper/20171010_haibian_chuan.jpg</Wallpaper>
+    <Wallpaper md5="123456">https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/livewallpaper/20171010_shuimo_hehua.jpg</Wallpaper>
+    <Wallpaper md5="123456">https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/livewallpaper/20171011_xingkong_yuye.jpg</Wallpaper>
+    <Wallpaper md5="123456">https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/livewallpaper/2017-10-11_17_51_43_x264.jpg</Wallpaper>
 </Wallpapers>

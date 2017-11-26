@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:android="http://schemas.android.com/apk/res/android">
+    <IconConfig>
+        <version>1</version>
+        <prefix>icon</prefix>
+        <page>1</page>
+    </IconConfig>
+</Config>

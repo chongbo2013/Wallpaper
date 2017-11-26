@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Clocks xmlns:android="http://schemas.android.com/apk/res/android">
-    <Clock>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/clock/xu.ferris.plugin.defaultclock.png</Clock>
+    <Clock md5="123456">https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/clock/xu.ferris.plugin.defaultclock.png</Clock>
 </Clocks>

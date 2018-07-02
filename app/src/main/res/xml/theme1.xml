@@ -21,7 +21,7 @@
         <author>ferris.xu</author>
         <date>2017/11/28</date>
         <md5>e6c19e2fba4b724fda8b20b79f5086e0</md5>
-        <title>3D反光主题</title>
+        <title>3D反光主题-银</title>
         <description>全新3D主题系列</description>
         <type>4</type>
         <pre_01>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/bf7bf8c0bf8ba037c3cf639fe6e1465c/pre_01.jpg</pre_01>
@@ -33,5 +33,23 @@
         <apk>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/bf7bf8c0bf8ba037c3cf639fe6e1465c/xu.ferris.plugin.theme3djinshu.apk</apk>
         <size>1.68M</size>
         <pkg>xu.ferris.plugin.theme3djinshu</pkg>
+    </Theme>
+
+    <Theme>
+        <author>ferris.xu</author>
+        <date>2017/11/28</date>
+        <md5>19457ee078cf8ce3a26d07058745ca2f</md5>
+        <title>3D反光主题-钢琴黑</title>
+        <description>全新3D主题系列</description>
+        <type>4</type>
+        <pre_01>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/19457ee078cf8ce3a26d07058745ca2f/pre_01.jpg</pre_01>
+        <pre_02>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/19457ee078cf8ce3a26d07058745ca2f/pre_02.jpg</pre_02>
+        <pre_03>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/19457ee078cf8ce3a26d07058745ca2f/pre_03.jpg</pre_03>
+        <pre_04>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/19457ee078cf8ce3a26d07058745ca2f/pre_04.jpg</pre_04>
+        <pre_05>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/19457ee078cf8ce3a26d07058745ca2f/pre_05.jpg</pre_05>
+        <thumbnail>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/19457ee078cf8ce3a26d07058745ca2f/thumbnail.jpg</thumbnail>
+        <apk>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/19457ee078cf8ce3a26d07058745ca2f/xu.ferris.plugin.theme3djinshumoren.apk</apk>
+        <size>1.68M</size>
+        <pkg>xu.ferris.plugin.theme3djinshumoren</pkg>
     </Theme>
 </Themes>

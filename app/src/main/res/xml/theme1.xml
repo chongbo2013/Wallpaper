@@ -52,4 +52,21 @@
         <size>1.68M</size>
         <pkg>xu.ferris.plugin.theme3djinshumoren</pkg>
     </Theme>
+    <Theme>
+        <author>ferris.xu</author>
+        <date>2017/11/28</date>
+        <md5>f2ca6a692665790f660d155c28986f86</md5>
+        <title>IOS9主题</title>
+        <description>全新苹果主题</description>
+        <type>4</type>
+        <pre_01>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/f2ca6a692665790f660d155c28986f86/pre_01.jpg</pre_01>
+        <pre_02>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/f2ca6a692665790f660d155c28986f86/pre_02.jpg</pre_02>
+        <pre_03>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/f2ca6a692665790f660d155c28986f86/pre_03.jpg</pre_03>
+        <pre_04>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/f2ca6a692665790f660d155c28986f86/pre_04.jpg</pre_04>
+        <pre_05>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/f2ca6a692665790f660d155c28986f86/pre_05.jpg</pre_05>
+        <thumbnail>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/f2ca6a692665790f660d155c28986f86/thumbnail.jpg</thumbnail>
+        <apk>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/f2ca6a692665790f660d155c28986f86/xu.ferris.plugin.theme3djinshumoren.apk</apk>
+        <size>1.68M</size>
+        <pkg>xu.ferris.plugin.themeios9</pkg>
+    </Theme>
 </Themes>

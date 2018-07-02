@@ -69,4 +69,40 @@
         <size>1.68M</size>
         <pkg>xu.ferris.plugin.themeios9</pkg>
     </Theme>
+
+    <Theme>
+        <author>ferris.xu</author>
+        <date>2017/11/28</date>
+        <md5>db2fcc352571254d29c7d4ec98ac48fb</md5>
+        <title>IOS9场景</title>
+        <description>全新苹果主题</description>
+        <type>4</type>
+        <pre_01>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/db2fcc352571254d29c7d4ec98ac48fb/pre_01.jpg</pre_01>
+        <pre_02>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/db2fcc352571254d29c7d4ec98ac48fb/pre_02.jpg</pre_02>
+        <pre_03>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/db2fcc352571254d29c7d4ec98ac48fb/pre_03.jpg</pre_03>
+        <pre_04>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/db2fcc352571254d29c7d4ec98ac48fb/pre_04.jpg</pre_04>
+        <pre_05>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/db2fcc352571254d29c7d4ec98ac48fb/pre_05.jpg</pre_05>
+        <thumbnail>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/db2fcc352571254d29c7d4ec98ac48fb/thumbnail.jpg</thumbnail>
+        <apk>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/db2fcc352571254d29c7d4ec98ac48fb/xu.ferris.plugin.themeshipin.apk</apk>
+        <size>1.68M</size>
+        <pkg>xu.ferris.plugin.themeshipin</pkg>
+    </Theme>
+
+    <Theme>
+        <author>ferris.xu</author>
+        <date>2017/11/28</date>
+        <md5>2623a55720f5a3c8e5e32cc63a184694</md5>
+        <title>IOS9主题视频</title>
+        <description>视频</description>
+        <type>4</type>
+        <pre_01>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/2623a55720f5a3c8e5e32cc63a184694/pre_01.jpg</pre_01>
+        <pre_02>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/2623a55720f5a3c8e5e32cc63a184694/pre_02.jpg</pre_02>
+        <pre_03>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/2623a55720f5a3c8e5e32cc63a184694/pre_03.jpg</pre_03>
+        <pre_04>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/2623a55720f5a3c8e5e32cc63a184694/pre_04.jpg</pre_04>
+        <pre_05>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/2623a55720f5a3c8e5e32cc63a184694/pre_05.jpg</pre_05>
+        <thumbnail>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/2623a55720f5a3c8e5e32cc63a184694/thumbnail.jpg</thumbnail>
+        <apk>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/2623a55720f5a3c8e5e32cc63a184694/xu.ferris.plugin.themecj.apk</apk>
+        <size>1.68M</size>
+        <pkg>xu.ferris.plugin.themecj</pkg>
+    </Theme>
 </Themes>

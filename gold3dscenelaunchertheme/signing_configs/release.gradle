@@ -1,8 +1,0 @@
-signingConfigs {
-    release {
-        storeFile file("ferris.jks")
-        storePassword ""
-        keyAlias "ferris"
-        keyPassword ""
-    }
-}

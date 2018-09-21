@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "810348080715",
+    "firebase_url": "https://com-gold-metallic-scene.firebaseio.com",
+    "project_id": "com-gold-metallic-scene",
+    "storage_bucket": "com-gold-metallic-scene.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810348080715:android:7257f0b3304a3cb0",
+        "android_client_info": {
+          "package_name": "com.gold.metallic.scene.launcher.theme3d"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810348080715-ti5sq5kibliv67v87vf1duo1qkeiavlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHcq4EPB7yJuB7xfpjXv2NyTPH8IQurAo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-8620299329120827~5458098944"
+    }
+  ],
+  "configuration_version": "1"
+}

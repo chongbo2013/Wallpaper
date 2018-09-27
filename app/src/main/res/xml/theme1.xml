@@ -103,7 +103,8 @@
         <thumbnail>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/2623a55720f5a3c8e5e32cc63a184694/thumbnail.jpg</thumbnail>
         <apk>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/2623a55720f5a3c8e5e32cc63a184694/xu.ferris.plugin.themecj.apk</apk>
         <size>1.68M</size>
-        <pkg>xu.ferris.plugin.themecj</pkg>
+        <playurl>com.gold.metallic.scene.launcher.theme3d</playurl>
+        <pkg>com.gold.metallic.scene.launcher.theme3d</pkg>
     </Theme>
 
     <Theme>

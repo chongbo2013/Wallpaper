@@ -1,9 +1,0 @@
-﻿{
-    "name": "金属壁纸", 
-    "code": "1", 
-    "type": "2",     0普通壁纸  default_wallpaper.jpg     1 3d壁纸  default_wallpaper.g3dj  2 视频壁纸 default_wallpaper.mp4
-    "z_size": "0.03",
-	"scaleEx": "1.2",
-	"enableTouchRotateY": "1",
-	"enableAccelerometer": "1",
-}

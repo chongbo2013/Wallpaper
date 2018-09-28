@@ -2,6 +2,40 @@
 <Themes xmlns:android="http://schemas.android.com/apk/res/android">
     <Theme>
         <author>ferris.xu</author>
+        <date>2018/09/28</date>
+        <md5>5cbb2a6f5b92ce25b22d8e84aa846b89</md5>
+        <title>3D reflective technology theme</title>
+        <description>New theme</description>
+        <type>4</type>
+        <pre_01>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/FanGuiBlackTheme/pre_01.jpg</pre_01>
+        <pre_02>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/FanGuiBlackTheme/pre_02.jpg</pre_02>
+        <pre_03>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/FanGuiBlackTheme/pre_03.jpg</pre_03>
+        <pre_04>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/FanGuiBlackTheme/pre_04.jpg</pre_04>
+        <pre_05>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/FanGuiBlackTheme/pre_05.jpg</pre_05>
+        <thumbnail>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/FanGuiBlackTheme/thumbnail.jpg</thumbnail>
+        <apk>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/FanGuiBlackTheme/com.reflective.technology.scene.launcher.theme3d.apk</apk>
+        <size>568kb</size>
+        <pkg>com.reflective.technology.scene.launcher.theme3d</pkg>
+    </Theme>
+    <Theme>
+        <author>ferris.xu</author>
+        <date>2017/11/28</date>
+        <md5>27d7fd5be7ee3dc292fd0ef7c965e108</md5>
+        <title>Green Splash Graffiti Wolf Theme</title>
+        <description>New theme</description>
+        <type>4</type>
+        <pre_01>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/GreenSplashGraffitiWolfTheme/pre_01.jpg</pre_01>
+        <pre_02>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/GreenSplashGraffitiWolfTheme/pre_02.jpg</pre_02>
+        <pre_03>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/GreenSplashGraffitiWolfTheme/pre_03.jpg</pre_03>
+        <pre_04>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/GreenSplashGraffitiWolfTheme/pre_04.jpg</pre_04>
+        <pre_05>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/GreenSplashGraffitiWolfTheme/pre_05.jpg</pre_05>
+        <thumbnail>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/GreenSplashGraffitiWolfTheme/thumbnail.jpg</thumbnail>
+        <apk>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/GreenSplashGraffitiWolfTheme/GreenSplashGraffitiWolfTheme.apk</apk>
+        <size>1.68M</size>
+        <pkg>Green.Splash.Graffiti.Wolf.Theme</pkg>
+    </Theme>
+    <Theme>
+        <author>ferris.xu</author>
         <date>2017/11/28</date>
         <md5>f3e7819211412f8cd27a50ab3b5e7c7e</md5>
         <title>Holographic 3D theme</title>
@@ -212,23 +246,7 @@
         <size>1.68M</size>
         <pkg>Green.Pink.Rose.Theme</pkg>
     </Theme>
-    <Theme>
-        <author>ferris.xu</author>
-        <date>2017/11/28</date>
-        <md5>27d7fd5be7ee3dc292fd0ef7c965e108</md5>
-        <title>Green Splash Graffiti Wolf Theme</title>
-        <description>New theme</description>
-        <type>4</type>
-        <pre_01>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/GreenSplashGraffitiWolfTheme/pre_01.jpg</pre_01>
-        <pre_02>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/GreenSplashGraffitiWolfTheme/pre_02.jpg</pre_02>
-        <pre_03>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/GreenSplashGraffitiWolfTheme/pre_03.jpg</pre_03>
-        <pre_04>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/GreenSplashGraffitiWolfTheme/pre_04.jpg</pre_04>
-        <pre_05>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/GreenSplashGraffitiWolfTheme/pre_05.jpg</pre_05>
-        <thumbnail>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/GreenSplashGraffitiWolfTheme/thumbnail.jpg</thumbnail>
-        <apk>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/GreenSplashGraffitiWolfTheme/GreenSplashGraffitiWolfTheme.apk</apk>
-        <size>1.68M</size>
-        <pkg>Green.Splash.Graffiti.Wolf.Theme</pkg>
-    </Theme>
+
 
     <Theme>
         <author>ferris.xu</author>

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://E:\WallpaperService\Wallpaper.iml" filepath="E:\WallpaperService\Wallpaper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wallpaper.iml" filepath="$PROJECT_DIR$/Wallpaper.iml" />
+      <module fileurl="file://E:/WallpaperService/Wallpaper.iml" filepath="E:/WallpaperService/Wallpaper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WallpaperDecode/WallpaperDecode.iml" filepath="$PROJECT_DIR$/WallpaperDecode/WallpaperDecode.iml" />
       <module fileurl="file://$PROJECT_DIR$/WallpaperService.iml" filepath="$PROJECT_DIR$/WallpaperService.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>

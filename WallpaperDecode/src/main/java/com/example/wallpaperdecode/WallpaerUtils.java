@@ -13,20 +13,52 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Comparator;
 import java.util.List;
 
 public class WallpaerUtils {
-
+    String[] sss=new String[]{"renwu","fengjing","zhiwu","dongwu","yundong","meishi","menghuan","katongdongman","yishu","meinv","kuche","keji","qita"};
     public static void main(String[] args) {
-        String prefix="renwu";
+        String prefix="qita";
         String proPath =System.getProperty("user.dir") + "\\app\\src\\Main\\assets\\wallpaper\\"+prefix;
 
         String saveConfigPath = System.getProperty("user.dir") + "\\app\\src\\Main\\res\\xml\\"+prefix+"_config.xml";
 
         File wallpapersRoot=new File(proPath);
-        File[] wallpapers=wallpapersRoot.listFiles();
+        File[] wallpapersTemp=wallpapersRoot.listFiles();
+
+        //按照创建日期排序
+        Arrays.sort(wallpapersTemp,new Comparator< File>(){
+            public int compare(File f1, File f2) {
+                long diff = f1.lastModified() - f2.lastModified();
+                if (diff > 0)
+                    return 1;
+                else if (diff == 0)
+                    return 0;
+                else
+                    return -1;
+            }
+            public boolean equals(Object obj) {
+                return true;
+            }
+
+        });
+
+
         int size=20;
-        int pageSize= (int) Math.ceil(wallpapers.length/20);
+
+        List<File> fffff=new ArrayList<>();
+        for(File f:wallpapersTemp){
+            if(!f.getAbsolutePath().endsWith(".png.s.jpg")){
+                fffff.add(f);
+            }
+        }
+
+        File[] wallpapers=new File[fffff.size()];
+        fffff.toArray(wallpapers);
+
+        int pageSize= (int) Math.ceil((float)wallpapers.length/20f);
 
         //save page size
         List<String>saveConfig=new ArrayList<>();
@@ -67,16 +99,22 @@ public class WallpaerUtils {
                     int thumw=540;
                     int thumh= (int) (540*radio);
 
-                    //原图
-                    String fileName=img.getName();
-                     fileName=fileName.substring(0,fileName.indexOf("."));//wallpaper_share_capture_7(4).jpg
 
+                    //原图
+                    String fileName=System.currentTimeMillis()+"";
+                    String oldFileName=img.getName();
+                    oldFileName=oldFileName.substring(0,oldFileName.indexOf("."));
                     String strXmlUtl="<Wallpaper>"+"https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/"+prefix+"/"+fileName+".png.xs.jpg</Wallpaper>";
 
                     String strFileOrighin=new File(img.getParent(),fileName+".png").getAbsolutePath();
                     //缩略图
                     String strFiles=new File(img.getParent(),fileName+".png.s.jpg").getAbsolutePath();
+
+                    String oldstrFiles=new File(img.getParent(),oldFileName+".png.s.jpg").getAbsolutePath();
                     try {
+                        File suoluetu =new File(oldstrFiles);
+                        if(suoluetu.exists())
+                            suoluetu.delete();
                         Thumbnails.of(img).size(thumw,thumh).toFile(new File(strFiles));
                     } catch (IOException e) {
                         e.printStackTrace();

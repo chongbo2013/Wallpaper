@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Wallpapers xmlns:android="http://schemas.android.com/apk/res/android">
-    <Wallpaper>http://image.coolapk.com/picture/2017/0924/532308_1506239304_5548@1080x1920.png.xs.jpg</Wallpaper>
-    <Wallpaper>http://image.coolapk.com/picture/2017/0924/477303_1506219852_6329@1412x2662.png.xs.jpg</Wallpaper>
-    <Wallpaper>http://image.coolapk.com/picture/2017/0923/581001_1506156279_0307@1080x1920.png.xs.jpg</Wallpaper>
-    <Wallpaper>http://image.coolapk.com/picture/2017/0923/459748_1506129221_0583@1080x1920.png.xs.jpg</Wallpaper>
-    <Wallpaper>http://image.coolapk.com/picture/2017/0922/623102_1506088207_908@1080x1920.png.xs.jpg</Wallpaper>
-    <!-- 11111111111-->
-    <Wallpaper>http://image.coolapk.com/picture/2017/0922/786153_1506085959_9001@1584x2742.png.xs.jpg</Wallpaper>
-    <Wallpaper>http://image.coolapk.com/picture/2017/0922/619559_1506062257_4367@1080x2160.png.xs.jpg</Wallpaper>
-    <Wallpaper>http://image.coolapk.com/picture/2017/0922/765104_1506056588_7999@1080x1920.png.xs.jpg</Wallpaper>
-    <Wallpaper>http://image.coolapk.com/picture/2017/0922/477303_1506039686_689@750x1334.png.xs.jpg</Wallpaper>
-    <Wallpaper>http://image.coolapk.com/picture/2017/0921/757768_1505991047_2157@1080x1920.png.xs.jpg</Wallpaper>
-    <!-- 11111111111-->
-    <Wallpaper>http://image.coolapk.com/picture/2017/0921/449586_1505974948_2471@1440x2560.png.xs.jpg</Wallpaper>
-    <Wallpaper>http://image.coolapk.com/picture/2017/0921/765104_1505966424_8301@1440x2560.png.xs.jpg</Wallpaper>
-    <Wallpaper>http://image.coolapk.com/picture/2017/0920/175299_1505908229_6887@1080x1920.png.xs.jpg</Wallpaper>
-    <Wallpaper>http://image.coolapk.com/picture/2017/0919/607027_1505832354_9587@1080x1920.png.xs.jpg</Wallpaper>
-    <Wallpaper>http://image.coolapk.com/picture/2017/0919/815718_1505808008_935@1080x1920.png.xs.jpg</Wallpaper>
-    <!-- 11111111111-->
-    <Wallpaper>http://image.coolapk.com/picture/2017/0919/734808_1505760099_5139@1440x2560.png.xs.jpg</Wallpaper>
-    <Wallpaper>http://image.coolapk.com/picture/2017/0919/1049586_1505753637_1713@1440x2560.png.xs.jpg</Wallpaper>
-    <Wallpaper>http://image.coolapk.com/picture/2017/0918/451338_1505748150_3267@1080x1920.png.xs.jpg</Wallpaper>
-    <Wallpaper>http://image.coolapk.com/picture/2017/0918/949169_1505743413_192@1441x2960.png.xs.jpg</Wallpaper>
-    <Wallpaper>http://image.coolapk.com/picture/2017/0918/987445_1505743178_6909@1080x1920.png.xs.jpg</Wallpaper>
-
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/kuche/1538889853984.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/kuche/1538889854527.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/kuche/1538889854659.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/kuche/1538889854771.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/kuche/1538889854896.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/kuche/1538889855107.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/kuche/1538889855202.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/kuche/1538889855312.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/kuche/1538889855423.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/kuche/1538889855524.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/kuche/1538889855622.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/kuche/1538889855721.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/kuche/1538889855821.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/kuche/1538889855934.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/kuche/1538889856030.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/kuche/1538889856131.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/kuche/1538889856224.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/kuche/1538889856325.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/kuche/1538889856434.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/kuche/1538889856529.png.xs.jpg</Wallpaper>
 </Wallpapers>

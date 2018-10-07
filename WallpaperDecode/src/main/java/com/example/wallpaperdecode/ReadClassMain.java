@@ -56,7 +56,7 @@ public class ReadClassMain {
         }
 
 
-        boolean isDefault=false;//默认排序
+        boolean isDefault=true;//默认排序
 
         int size=20;
         int pageSize= (int) Math.ceil((float)totalCount/(float) size);

@@ -18,9 +18,20 @@ import java.util.Comparator;
 import java.util.List;
 
 public class WallpaerUtils {
-    String[] sss=new String[]{"renwu","fengjing","zhiwu","dongwu","yundong","meishi","menghuan","katongdongman","yishu","meinv","kuche","keji","qita"};
+    public static String[] sss=new String[]{"renwu","fengjing","zhiwu","dongwu","yundong","meishi","menghuan","katongdongman","yishu","meinv","kuche","keji","qita"};
     public static void main(String[] args) {
-        String prefix="qita";
+
+        System.out.print("start"+"\n");
+        for(String prefix:sss){
+            doMain(prefix);
+            System.out.print("doing="+prefix+"\n");
+        }
+        System.out.print("end"+"\n");
+
+    }
+
+    public static void doMain(String prefix){
+
         String proPath =System.getProperty("user.dir") + "\\app\\src\\Main\\assets\\wallpaper\\"+prefix;
 
         String saveConfigPath = System.getProperty("user.dir") + "\\app\\src\\Main\\res\\xml\\"+prefix+"_config.xml";
@@ -130,7 +141,7 @@ public class WallpaerUtils {
             saveStringsToFile(saveConfigWallpaperPath,saveFiles);
             System.out.print("progress-"+i);
         }
-        System.out.print("end-"+prefix);
+
     }
 
 

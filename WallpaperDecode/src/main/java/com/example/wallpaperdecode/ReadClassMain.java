@@ -60,6 +60,24 @@ public class ReadClassMain {
 
         int size=20;
         int pageSize= (int) Math.ceil((float)totalCount/(float) size);
+
+
+        //save page size
+        List<String>saveConfig=new ArrayList<>();
+        String temp="<?xml version=\"1.0\" encoding=\"utf-8\"?>\n" +
+                "<Config xmlns:android=\"http://schemas.android.com/apk/res/android\">\n" +
+                "    <WallpaperConfig>\n" +
+                "        <version>2</version>\n" +
+                "        <prefix>wallpaper</prefix>\n" +
+                "        <page>"+pageSize+"</page>\n" +
+                "    </WallpaperConfig>\n" +
+                "</Config>";
+        saveConfig.add(temp);
+
+        String savexml = System.getProperty("user.dir") + "\\app\\src\\Main\\res\\xml\\"+(isDefault?"config.xml":"config_new_wallpaper.xml");
+        saveStringsToFile(savexml,saveConfig);
+
+
         for(int i=0;i<pageSize;i++){
             //生成页
             List<String> finalStrings=new ArrayList<>();

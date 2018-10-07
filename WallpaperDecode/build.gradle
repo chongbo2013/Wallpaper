@@ -7,4 +7,5 @@ targetCompatibility = "1.7"
 dependencies {
     compile files('libs/metadata-extractor-2.11.0.jar')
     compile files('libs/thumbnailator-0.4.8.jar')
+    compile files('libs/kxml2-2.3.0.jar')
 }

@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Wallpapers xmlns:android="http://schemas.android.com/apk/res/android">
-    <!-- 11111111111-->
-    <Walpaper>http://image.coolapk.com/picture/2017/0910/503494_1505055733_5423.png.xs.jpg</Walpaper>
-    <Walpaper>http://image.coolapk.com/picture/2017/0910/649476_1505017587_9163.png.xs.jpg</Walpaper>
-    <Walpaper>http://image.coolapk.com/picture/2017/0910/498133_1505011494_5139.png.xs.jpg</Walpaper>
-    <Walpaper>http://image.coolapk.com/picture/2017/0908/428531_1504844943_4311.png.xs.jpg</Walpaper>
-    <Walpaper>http://image.coolapk.com/picture/2017/0908/781174_1504832096_3149.png.xs.jpg</Walpaper>
-    <!-- 11111111111-->
-    <Walpaper>http://image.coolapk.com/picture/2017/0908/435900_1504800954_4767.png.xs.jpg</Walpaper>
-    <Walpaper>http://image.coolapk.com/picture/2017/0907/532308_1504762115_3663.png.xs.jpg</Walpaper>
-    <Walpaper>http://image.coolapk.com/picture/2017/0907/392418_1504758284_4618.png.xs.jpg</Walpaper>
-    <Walpaper>http://image.coolapk.com/picture/2017/0907/1132869_1504757558_5138.png.xs.jpg</Walpaper>
-    <Walpaper>http://image.coolapk.com/picture/2017/0907/736382_1504755412_8087.png.xs.jpg</Walpaper>
-    <!-- 11111111111-->
-    <Walpaper>http://image.coolapk.com/picture/2017/0907/734808_1504743063_1364.png.xs.jpg</Walpaper>
-    <Walpaper>http://image.coolapk.com/picture/2017/0907/603359_1504714703_5127.png.xs.jpg</Walpaper>
-    <Walpaper>http://image.coolapk.com/picture/2017/0906/934933_1504662119_6129.png.xs.jpg</Walpaper>
-    <Walpaper>http://image.coolapk.com/picture/2017/0906/545441_1504645613_2085.png.xs.jpg</Walpaper>
-    <Walpaper>http://image.coolapk.com/picture/2017/0905/1071998_1504626187_7607.png.xs.jpg</Walpaper>
-    <!-- 11111111111-->
-    <Walpaper>http://image.coolapk.com/picture/2017/0905/1002820_1504541441_0388.png.xs.jpg</Walpaper>
-    <Walpaper>http://image.coolapk.com/picture/2017/0904/535189_1504533170_0839.png.xs.jpg</Walpaper>
-    <Walpaper>http://image.coolapk.com/picture/2017/0904/723437_1504469278_5283.png.xs.jpg</Walpaper>
-    <Walpaper>http://image.coolapk.com/picture/2017/0903/310373_1504402963_9662.png.xs.jpg</Walpaper>
-    <Walpaper>http://image.coolapk.com/picture/2017/0902/502865_1504365329_6037.png.xs.jpg</Walpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/renwu/1538825142781.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/fengjing/1538880262333.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/zhiwu/1538881494349.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/dongwu/1538882905135.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/yundong/1538884174280.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/meishi/1538885109627.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/menghuan/1538886165135.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/katongdongman/1538887088988.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/yishu/1538888210526.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/meinv/1538888991529.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/kuche/1538889854659.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/keji/1538890565619.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/qita/1538890954852.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/renwu/1538825142877.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/fengjing/1538880262645.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/zhiwu/1538881494458.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/dongwu/1538882905245.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/yundong/1538884174373.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/meishi/1538885109752.png.xs.jpg</Wallpaper>
+<Wallpaper>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/wallpaper/menghuan/1538886165232.png.xs.jpg</Wallpaper>
 </Wallpapers>

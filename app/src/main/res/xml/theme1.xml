@@ -1,22 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Themes xmlns:android="http://schemas.android.com/apk/res/android">
-    <Theme>
-        <author>ferris.xu</author>
-        <date>2018/09/28</date>
-        <md5>5cbb2a6f5b92ce25b22d8e84aa846b89</md5>
-        <title>3D reflective technology theme</title>
-        <description>New theme</description>
-        <type>4</type>
-        <pre_01>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/FanGuiBlackTheme/pre_01.jpg</pre_01>
-        <pre_02>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/FanGuiBlackTheme/pre_02.jpg</pre_02>
-        <pre_03>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/FanGuiBlackTheme/pre_03.jpg</pre_03>
-        <pre_04>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/FanGuiBlackTheme/pre_04.jpg</pre_04>
-        <pre_05>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/FanGuiBlackTheme/pre_05.jpg</pre_05>
-        <thumbnail>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/FanGuiBlackTheme/thumbnail.jpg</thumbnail>
-        <apk>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/FanGuiBlackTheme/com.reflective.technology.scene.launcher.theme3d.apk</apk>
-        <size>568kb</size>
-        <pkg>com.reflective.technology.scene.launcher.theme3d</pkg>
-    </Theme>
 
     <Theme>
         <author>ferris.xu</author>
@@ -35,6 +18,23 @@
         <size>568kb</size>
         <version>1</version>
         <pkg>com.reflective.technology.orange.scene.launcher.theme3d</pkg>
+    </Theme>
+    <Theme>
+        <author>ferris.xu</author>
+        <date>2018/09/28</date>
+        <md5>5cbb2a6f5b92ce25b22d8e84aa846b89</md5>
+        <title>3D reflective technology theme</title>
+        <description>New theme</description>
+        <type>4</type>
+        <pre_01>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/FanGuiBlackTheme/pre_01.jpg</pre_01>
+        <pre_02>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/FanGuiBlackTheme/pre_02.jpg</pre_02>
+        <pre_03>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/FanGuiBlackTheme/pre_03.jpg</pre_03>
+        <pre_04>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/FanGuiBlackTheme/pre_04.jpg</pre_04>
+        <pre_05>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/FanGuiBlackTheme/pre_05.jpg</pre_05>
+        <thumbnail>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/FanGuiBlackTheme/thumbnail.jpg</thumbnail>
+        <apk>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/FanGuiBlackTheme/com.reflective.technology.scene.launcher.theme3d.apk</apk>
+        <size>568kb</size>
+        <pkg>com.reflective.technology.scene.launcher.theme3d</pkg>
     </Theme>
 
     <Theme>

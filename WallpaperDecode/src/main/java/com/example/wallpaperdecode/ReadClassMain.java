@@ -17,10 +17,16 @@ import java.util.List;
 public class ReadClassMain {
     public static String[] sss=new String[]{"renwu","fengjing","zhiwu","dongwu","yundong","meishi","menghuan","katongdongman","yishu","meinv","kuche","keji","qita"};
 
+    public static void readClass(){
+        main(new String[]{"true","false"});
+    }
     public static void main(String[] args) {
         //最热 默认排序
         //最新 则把后面放前面
-
+        readDO(true);
+        readDO(false);
+    }
+    public static void readDO( boolean isDefault){
         String saveConfigPath = System.getProperty("user.dir") + "\\app\\src\\Main\\res\\xml";
         File[]  files2=new File(saveConfigPath).listFiles();
         Arrays.sort(files2, new Comparator<File>() {
@@ -56,7 +62,7 @@ public class ReadClassMain {
         }
 
 
-        boolean isDefault=true;//默认排序
+
 
         int size=20;
         int pageSize= (int) Math.ceil((float)totalCount/(float) size);
@@ -97,7 +103,7 @@ public class ReadClassMain {
                         ssfsdfsdfdf.remove(isDefault?0:ssfsdfsdfdf.size()-1);
                         needSize-=1;
                         if(needSize<1)
-                        break;
+                            break;
                     }
                 }
 
@@ -111,7 +117,6 @@ public class ReadClassMain {
         }
 
         System.out.print("end");
-
 
     }
     public static List<String> getWallpapersFromFile(String file_path) {

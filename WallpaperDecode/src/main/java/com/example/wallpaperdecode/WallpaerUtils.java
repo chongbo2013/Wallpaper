@@ -142,6 +142,7 @@ public class WallpaerUtils {
             System.out.print("progress-"+i);
         }
 
+        ReadClassMain.readClass();
     }
 
 

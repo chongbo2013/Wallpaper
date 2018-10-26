@@ -86,6 +86,7 @@
         <thumbnail>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DRedRoseGlitterHoodTheme/thumbnail.jpg</thumbnail>
         <apk>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DRedRoseGlitterHoodTheme/assets.apk</apk>
         <size>568kb</size>
+        <playurl>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.red.rose.glitter</playurl>
         <pkg>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.red.rose.glitter</pkg>
     </Theme>
 
@@ -104,6 +105,7 @@
         <thumbnail>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DRedRoseBlossomDiamondTheme/thumbnail.jpg</thumbnail>
         <apk>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DRedRoseBlossomDiamondTheme/assets.apk</apk>
         <size>568kb</size>
+        <playurl>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.red.rose.blossom</playurl>
         <pkg>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.red.rose.blossom</pkg>
     </Theme>
 
@@ -122,6 +124,7 @@
         <thumbnail>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DBlueHalloweenPumpkinScarecrowTheme/thumbnail.jpg</thumbnail>
         <apk>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DBlueHalloweenPumpkinScarecrowTheme/assets.apk</apk>
         <size>568kb</size>
+        <playurl>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.halloween.pumpkin.death</playurl>
         <pkg>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.halloween.pumpkin.death</pkg>
     </Theme>
 

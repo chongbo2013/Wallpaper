@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Themes xmlns:android="http://schemas.android.com/apk/res/android">
-
+    <Theme>
+        <author>ferris.xu</author>
+        <date>2018/10/24</date>
+        <md5>03460129bca594ec8bc75220e2b52a97</md5>
+        <title>Halloween Pumpkin Dark Launcher Theme</title>
+        <description>New theme</description>
+        <type>4</type>
+        <pre_01>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DHalloweenPumpkinDarkLauncherTheme/pre_01.jpg</pre_01>
+        <pre_02>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DHalloweenPumpkinDarkLauncherTheme/pre_02.jpg</pre_02>
+        <pre_03>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DHalloweenPumpkinDarkLauncherTheme/pre_03.jpg</pre_03>
+        <pre_04>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DHalloweenPumpkinDarkLauncherTheme/pre_04.jpg</pre_04>
+        <pre_05>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DHalloweenPumpkinDarkLauncherTheme/pre_05.jpg</pre_05>
+        <thumbnail>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DHalloweenPumpkinDarkLauncherTheme/thumbnail.jpg</thumbnail>
+        <apk>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DHalloweenPumpkinDarkLauncherTheme/assets.apk</apk>
+        <size>568kb</size>
+        <playurl>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.halloween.pumpkin.dark</playurl>
+        <pkg>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.halloween.pumpkin.dark</pkg>
+    </Theme>
     <Theme>
         <author>ferris.xu</author>
         <date>2018/10/2</date>
@@ -88,6 +105,43 @@
         <size>568kb</size>
         <playurl>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.red.rose.glitter</playurl>
         <pkg>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.red.rose.glitter</pkg>
+    </Theme>
+    <Theme>
+        <author>ferris.xu</author>
+        <date>2018/10/24</date>
+        <md5>33292aeac8de10087183eaa8efa7d738</md5>
+        <title>3D Flame Fire Skull Launcher Theme</title>
+        <description>New theme</description>
+        <type>4</type>
+        <pre_01>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DFlameFireSkullLauncherTheme/pre_01.jpg</pre_01>
+        <pre_02>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DFlameFireSkullLauncherTheme/pre_02.jpg</pre_02>
+        <pre_03>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DFlameFireSkullLauncherTheme/pre_03.jpg</pre_03>
+        <pre_04>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DFlameFireSkullLauncherTheme/pre_04.jpg</pre_04>
+        <pre_05>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DFlameFireSkullLauncherTheme/pre_05.jpg</pre_05>
+        <thumbnail>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DFlameFireSkullLauncherTheme/thumbnail.jpg</thumbnail>
+        <apk>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DFlameFireSkullLauncherTheme/assets.apk</apk>
+        <size>568kb</size>
+        <playurl>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.flame.fire.skull</playurl>
+        <pkg>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.flame.fire.skull</pkg>
+    </Theme>
+
+    <Theme>
+        <author>ferris.xu</author>
+        <date>2018/10/24</date>
+        <md5>6027e21e72b882d9166b0e17ca8a75bd</md5>
+        <title>3D Red Gothic Blood Skull Launcher Theme</title>
+        <description>New theme</description>
+        <type>4</type>
+        <pre_01>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DRedGothicBloodSkullLauncherTheme/pre_01.jpg</pre_01>
+        <pre_02>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DRedGothicBloodSkullLauncherTheme/pre_02.jpg</pre_02>
+        <pre_03>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DRedGothicBloodSkullLauncherTheme/pre_03.jpg</pre_03>
+        <pre_04>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DRedGothicBloodSkullLauncherTheme/pre_04.jpg</pre_04>
+        <pre_05>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DRedGothicBloodSkullLauncherTheme/pre_05.jpg</pre_05>
+        <thumbnail>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DRedGothicBloodSkullLauncherTheme/thumbnail.jpg</thumbnail>
+        <apk>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DRedGothicBloodSkullLauncherTheme/assets.apk</apk>
+        <size>568kb</size>
+        <playurl>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.red.gothic.blood.skull</playurl>
+        <pkg>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.red.gothic.blood.skull</pkg>
     </Theme>
 
     <Theme>

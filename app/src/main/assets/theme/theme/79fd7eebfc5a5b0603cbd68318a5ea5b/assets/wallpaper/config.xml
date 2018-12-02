@@ -1,0 +1,9 @@
+﻿{
+    "name": "金属壁纸", 
+    "code": "1", 
+    "type": "0",   
+    "z_size": "0.03",
+	"scaleEx": "1.2",
+	"enableTouchRotateY": "1",
+	"enableAccelerometer": "1"
+}

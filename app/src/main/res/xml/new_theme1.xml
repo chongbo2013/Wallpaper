@@ -57,6 +57,153 @@
         <pkg>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.halloween.pumpkin.dark</pkg>
     </Theme>
 
+
+    <Theme>
+        <author>ferris.xu</author>
+        <date>2018/12/02</date>
+        <md5>5429a0b9a46d41276d42a60611fb36cc</md5>
+        <title>3D Neon City Theme</title>
+        <description>New theme</description>
+        <type>4</type>
+        <pre_01>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DNeonCity/pre_01.jpg</pre_01>
+        <pre_02>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DNeonCity/pre_02.jpg</pre_02>
+        <pre_03>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DNeonCity/pre_03.jpg</pre_03>
+        <pre_04>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DNeonCity/pre_04.jpg</pre_04>
+        <pre_05>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DNeonCity/pre_05.jpg</pre_05>
+        <thumbnail>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DNeonCity/thumbnail.jpg</thumbnail>
+        <apk>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DNeonCity/assets.apk</apk>
+        <size>568kb</size>
+        <playurl>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.neno.city</playurl>
+        <pkg>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.neno.city</pkg>
+    </Theme>
+    <Theme>
+        <author>ferris.xu</author>
+        <date>2018/12/02</date>
+        <md5>3bb1d567e8ebab14f80955729414c879</md5>
+        <title>3D Golden Rose Theme</title>
+        <description>New theme</description>
+        <type>4</type>
+        <pre_01>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DGoldenRose/pre_01.jpg</pre_01>
+        <pre_02>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DGoldenRose/pre_02.jpg</pre_02>
+        <pre_03>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DGoldenRose/pre_03.jpg</pre_03>
+        <pre_04>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DGoldenRose/pre_04.jpg</pre_04>
+        <pre_05>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DGoldenRose/pre_05.jpg</pre_05>
+        <thumbnail>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DGoldenRose/thumbnail.jpg</thumbnail>
+        <apk>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DGoldenRose/assets.apk</apk>
+        <size>568kb</size>
+        <playurl>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.golden.rose</playurl>
+        <pkg>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.golden.rose</pkg>
+    </Theme>
+    <Theme>
+        <author>ferris.xu</author>
+        <date>2018/12/02</date>
+        <md5>385878144a30a1b2528207e3f48e4b49</md5>
+        <title>3D Golden ButterFly Theme</title>
+        <description>New theme</description>
+        <type>4</type>
+        <pre_01>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DGoldenButterFly/pre_01.jpg</pre_01>
+        <pre_02>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DGoldenButterFly/pre_02.jpg</pre_02>
+        <pre_03>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DGoldenButterFly/pre_03.jpg</pre_03>
+        <pre_04>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DGoldenButterFly/pre_04.jpg</pre_04>
+        <pre_05>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DGoldenButterFly/pre_05.jpg</pre_05>
+        <thumbnail>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DGoldenButterFly/thumbnail.jpg</thumbnail>
+        <apk>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DGoldenButterFly/assets.apk</apk>
+        <size>568kb</size>
+        <playurl>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.golden.butterfly</playurl>
+        <pkg>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.golden.butterfly</pkg>
+    </Theme>
+    <Theme>
+        <author>ferris.xu</author>
+        <date>2018/12/02</date>
+        <md5>e25282736bd695881255fa529db2081a</md5>
+        <title>3D Gold Black Theme</title>
+        <description>New theme</description>
+        <type>4</type>
+        <pre_01>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DGoldBlack/pre_01.jpg</pre_01>
+        <pre_02>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DGoldBlack/pre_02.jpg</pre_02>
+        <pre_03>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DGoldBlack/pre_03.jpg</pre_03>
+        <pre_04>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DGoldBlack/pre_04.jpg</pre_04>
+        <pre_05>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DGoldBlack/pre_05.jpg</pre_05>
+        <thumbnail>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DGoldBlack/thumbnail.jpg</thumbnail>
+        <apk>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DGoldBlack/assets.apk</apk>
+        <size>568kb</size>
+        <playurl>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.gold.black</playurl>
+        <pkg>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.gold.black</pkg>
+    </Theme>
+    <Theme>
+        <author>ferris.xu</author>
+        <date>2018/12/02</date>
+        <md5>1d5685911d350631e7fd46f08a3114f2</md5>
+        <title>3D Cute Puppy Launcher Theme</title>
+        <description>New theme</description>
+        <type>4</type>
+        <pre_01>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DFantasy/pre_01.jpg</pre_01>
+        <pre_02>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DFantasy/pre_02.jpg</pre_02>
+        <pre_03>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DFantasy/pre_03.jpg</pre_03>
+        <pre_04>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DFantasy/pre_04.jpg</pre_04>
+        <pre_05>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DFantasy/pre_05.jpg</pre_05>
+        <thumbnail>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DFantasy/thumbnail.jpg</thumbnail>
+        <apk>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DFantasy/assets.apk</apk>
+        <size>568kb</size>
+        <playurl>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.fantasy</playurl>
+        <pkg>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.fantasy</pkg>
+    </Theme>
+    <Theme>
+        <author>ferris.xu</author>
+        <date>2018/12/02</date>
+        <md5>e8024ed9f157bbdacc22f203cf879c31</md5>
+        <title>3D Cute Puppy Launcher Theme</title>
+        <description>New theme</description>
+        <type>4</type>
+        <pre_01>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DCutePuppy/pre_01.jpg</pre_01>
+        <pre_02>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DCutePuppy/pre_02.jpg</pre_02>
+        <pre_03>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DCutePuppy/pre_03.jpg</pre_03>
+        <pre_04>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DCutePuppy/pre_04.jpg</pre_04>
+        <pre_05>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DCutePuppy/pre_05.jpg</pre_05>
+        <thumbnail>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DCutePuppy/thumbnail.jpg</thumbnail>
+        <apk>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DCutePuppy/assets.apk</apk>
+        <size>568kb</size>
+        <playurl>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.cute.puppy</playurl>
+        <pkg>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.cute.puppy</pkg>
+    </Theme>
+    <Theme>
+        <author>ferris.xu</author>
+        <date>2018/12/02</date>
+        <md5>ad93be7fac759a877a1e94fff0670b66</md5>
+        <title>3D Cool Neon Green Theme</title>
+        <description>New theme</description>
+        <type>4</type>
+        <pre_01>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DCoolNeonGreen/pre_01.jpg</pre_01>
+        <pre_02>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DCoolNeonGreen/pre_02.jpg</pre_02>
+        <pre_03>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DCoolNeonGreen/pre_03.jpg</pre_03>
+        <pre_04>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DCoolNeonGreen/pre_04.jpg</pre_04>
+        <pre_05>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DCoolNeonGreen/pre_05.jpg</pre_05>
+        <thumbnail>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DCoolNeonGreen/thumbnail.jpg</thumbnail>
+        <apk>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DCoolNeonGreen/assets.apk</apk>
+        <size>568kb</size>
+        <playurl>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.cool.neon.green</playurl>
+        <pkg>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.cool.neon.green</pkg>
+    </Theme>
+
+    <Theme>
+        <author>ferris.xu</author>
+        <date>2018/12/02</date>
+        <md5>4fba487de187f058f8b0b149a4129d40</md5>
+        <title>3D Neon Flower Theme</title>
+        <description>New theme</description>
+        <type>4</type>
+        <pre_01>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DNeonFlowerTheme/pre_01.jpg</pre_01>
+        <pre_02>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DNeonFlowerTheme/pre_02.jpg</pre_02>
+        <pre_03>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DNeonFlowerTheme/pre_03.jpg</pre_03>
+        <pre_04>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DNeonFlowerTheme/pre_04.jpg</pre_04>
+        <pre_05>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DNeonFlowerTheme/pre_05.jpg</pre_05>
+        <thumbnail>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DNeonFlowerTheme/thumbnail.jpg</thumbnail>
+        <apk>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/3DNeonFlowerTheme/assets.apk</apk>
+        <size>568kb</size>
+        <playurl>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.abstractneon.flowers.blue</playurl>
+        <pkg>com.launcher.launcher3d.theme.theme3d.wallpaper.wallpaper3d.abstractneon.flowers.blue</pkg>
+    </Theme>
+
     <Theme>
         <author>ferris.xu</author>
         <date>2018/10/24</date>

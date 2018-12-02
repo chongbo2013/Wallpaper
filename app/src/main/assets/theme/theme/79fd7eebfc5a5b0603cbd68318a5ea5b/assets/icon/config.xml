@@ -1,0 +1,12 @@
+﻿{
+    "name": "反光主题", 
+    "code": "1", 
+    "type": "0", 
+    "enableIconBorder": "1", 
+    "enableIconSketch": "1", 
+    "enableIconBgFiter": "0", 
+    "enableIconFiter": "0", 
+    "fiterColors": "#FFFFFF", 
+    "scaleIconMask": "-0.2", 
+    "z_size": "0.03"
+}

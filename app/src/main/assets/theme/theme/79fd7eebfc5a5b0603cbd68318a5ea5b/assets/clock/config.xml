@@ -1,0 +1,17 @@
+﻿{
+	"name": "3D时钟",
+	"code": "1",
+	"type": "0",
+	"style": "1",
+	"paddingLeft": "30",
+	"paddingRight": "30",
+	"paddingTop": "30",
+	"paddingBottom": "30",
+	"tpaddingRight": "10",
+	"tpaddingTop": "10",
+	"tpaddingBottom": "10",
+	"tpaddingLeft": "10",
+	"datesize": "18",
+	"datecolor": "#2cf0fc",
+	"z_size": "0.03"
+}

@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Themes xmlns:android="http://schemas.android.com/apk/res/android">
-
+    <Theme>
+        <author>ferris.xu</author>
+        <date>2017/11/28</date>
+        <md5>bcd9aaa1e5a48616770d2b9bd5c0f443</md5>
+        <title>testCj</title>
+        <description>New  theme Test</description>
+        <type>4</type>
+        <pre_01>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/testCj/pre_01.jpg</pre_01>
+        <pre_02>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/testCj/pre_02.jpg</pre_02>
+        <pre_03>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/testCj/pre_03.jpg</pre_03>
+        <pre_04>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/testCj/pre_04.jpg</pre_04>
+        <pre_05>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/testCj/pre_05.jpg</pre_05>
+        <thumbnail>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/testCj/thumbnail.jpg</thumbnail>
+        <apk>https://raw.githubusercontent.com/chongbo2013/Wallpaper/master/app/src/main/assets/theme/theme/testCj/com.apsu.launcher.theme.grow.test.apk</apk>
+        <size>1.68M</size>
+        <version>1</version>
+        <pkg>com.apsu.launcher.theme.grow.test</pkg>
+    </Theme>
     <Theme>
         <author>ferris.xu</author>
         <date>2018/10/24</date>
